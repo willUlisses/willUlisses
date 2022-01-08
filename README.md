@@ -1,4 +1,4 @@
-## Hello! I am William Cavalcante 
+## Hello! I am William Cavalcante 👋
 
 - 📚 i'm studying JAVA and i plan to study HTML5 and CSS3 too.
 - 🏖  i'm a 15 year old brazilian boy :-)
@@ -10,6 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William14y&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William14y&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+## technologies I use 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Will-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

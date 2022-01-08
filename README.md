@@ -26,6 +26,4 @@
     <a href="https://www.linkedin.com/in/william-cavalcante-ulisses-ba5227226/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/im_w_i_l_l_/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-     ![Snake animation](https://github.com/William14y/William14y/blob/output/github-contribution-grid-snake.svg)
-    
   </div>

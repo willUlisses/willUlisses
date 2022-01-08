@@ -1,7 +1,7 @@
 ## Hello! I am William Cavalcante 
 
 - 📚 i'm studying JAVA and i plan to study HTML5 and CSS3 too.
-- 🏖  i'm a 15 year old brazilian boy ¯\_(ツ)_/¯
+- 🏖  i'm a 15 year old brazilian boy :-)
 - ✨ learning english :)
 
 

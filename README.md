@@ -1,8 +1,8 @@
-## Hello! I am William Cavalcante 👋
+## Hey! I'm William Ulisses 👋
 
-- 📚 i'm studying JAVA and i plan to study HTML5 and CSS3 too.
-- 🏖  i'm a 18 year old brazilian boy :-)
-- ✨ learning english everyday :)
+- 👨‍🎓 i'm a 18 year old student from Brazil, who loves technology and programming.
+- 📚 My main focus is JAVA and backend development but i'm always studying new languages and other topics.
+- ✨ My english level is B2 and i'm working to improve it to a C1 level
 
 
 <div align="center">

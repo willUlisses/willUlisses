@@ -5,6 +5,7 @@
 - ✨ My english level is B2.
 - 👨‍💻 I am chasing for my first oportunity to work with backend development!
 
+## My Stats:
 
 <div align="center">
   <a href="https://github.com/willUlisses">
@@ -13,7 +14,7 @@
 </div>
 
    
-## technologies I use 
+## 💻 Technologies that I am using/learning:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -22,7 +23,7 @@
   
 </div>
   
-  ##
+  ## 📨 You can contact me on:
   
   <div>
     <a href="mailto:williamcavalcante06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

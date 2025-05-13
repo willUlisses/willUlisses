@@ -1,13 +1,13 @@
-## Hey! I'm William Ulisses 👋
+# Hey! I'm William Ulisses 👋
 
 - 👨‍🎓 i'm a 18 year old student from Brazil, who loves technology and programming.
 - 📚 My main focus is JAVA and backend development.
-- 💬 My english level is B2.
 - 👨‍💻 I am chasing for my first oportunity to work with backend development!
 
-## My Stats:
+## My stats on github
 
 <div align="center">
+  
   <a href="https://github.com/willUlisses">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -18,8 +18,10 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Will-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Will-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Will-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Will-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Will-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   
 </div>
   

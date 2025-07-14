@@ -1,7 +1,7 @@
 # Hey! I'm William Ulisses 👋
 
 - 👨‍🎓 i'm a 18 year old student from Brazil studying Information Systems.
-- 📚 My main focus is JAVA and backend development.
+- 🚀 My goal is to get in BackEnd Development area.
 - 👨‍💻 I'm chasing for my first oportunity to work with backend development!
 
 ## 💻 Technologies that I am using/learning:

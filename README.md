@@ -1,19 +1,22 @@
 # Hey! I'm William Ulisses 👋
 
 - 👨‍🎓 i'm a 19 year old student from Brazil studying Information Systems.
-- 🚀 My goal is to get in BackEnd Development area.
+- 🚀 My goal is to get in Backend Development area.
 - 👨‍💻 I'm chasing for my first oportunity to work with backend development!
 
-## 💻 Technologies that I am using/learning:
+## 🧑‍💻 Technologies that I use:
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Will-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Will-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Will-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Will-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Will-Py" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+<div style="display: inline-block;">
+    <br>
+    <img align="center" alt="Will-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="Will-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+    <img align="center" alt="Will-postgre" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    <img align="center" alt="Will-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img align="center" alt="Will-Py" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img align="center" alt="Will-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
+    <img align="center" alt="Will-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
 </div>
+
   
   ## 📨 You can contact me on:
   

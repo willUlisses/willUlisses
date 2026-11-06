@@ -7,7 +7,7 @@
 ## 🧑‍💻 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,ts,react,html,css,docker,git" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,ts,react,html,css,docker,git,redis,ai" alt="My Tech Stack" />
 </p>
   
   ## 📨 You can contact me on:
